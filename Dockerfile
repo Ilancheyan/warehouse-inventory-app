@@ -23,14 +23,15 @@ WORKDIR /app
 COPY package.json package.json
 COPY package-lock.json package-lock.json
 
-# # specify test build
-# FROM base as test
+# specify test build
+FROM base as test
 # # clean dependancy install
-# RUN npm ci
+RUN npm ci
 # # copy files to image
-# COPY . .
+COPY . .
 # # command to run tests
-# CMD [ "npm", "run", "test" ]
+
+CMD [ "npm", "run", "test" ]
 
 # specify test build
 FROM base as prod
