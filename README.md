@@ -42,7 +42,10 @@
 - HTML
 - bcrypt
 - Bootstrap
-
+- Docker
+- GitHub Actions
+- AWS Elastic Beanstock
+- AWS CodePipeline
 
 *Dependencies*
 
