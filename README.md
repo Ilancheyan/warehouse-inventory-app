@@ -42,7 +42,8 @@
 - HTML
 - bcrypt
 - Bootstrap
-- Docker
+- Docker Hub
+- Play with Docker
 - GitHub Actions
 - AWS Elastic Beanstock
 - AWS CodePipeline
