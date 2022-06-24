@@ -47,6 +47,7 @@
 - GitHub Actions
 - AWS Elastic Beanstock
 - AWS CodePipeline
+- SonarCloud
 
 *Dependencies*
 
