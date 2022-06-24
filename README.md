@@ -1,4 +1,4 @@
-                                          ***Warehouse Inventory App***
+                                          ***CI/CD Warehouse Inventory App***
 
 
 
@@ -10,7 +10,7 @@
 - As a warehouse employee, I can add and remove palettes of inventory from a warehouse using a graphical user interface.  Palettes can only be added to warehouses with available capacity.
 - As a warehouse employee, I can add and remove boxes of inventory from a palette using a graphical user interface.  Boxes can only be added to palettes with available capacity.
 - As a warehouse employee, I am notified when a palette is empty and must be removed.
-
+- Implement a CI/CD pipeline to deploy the Warehouse Inventory App.
 
 *Getting Started*
 
